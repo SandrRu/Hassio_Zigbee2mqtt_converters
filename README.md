@@ -7,7 +7,7 @@ place ptvo_pwm.js to dtat folder of zigbee2mqtt</br>
 Typicaly .share/zigbee2mqtt</br>
 </p>
 <p>
-and add to <i>- ptvo_pwm.js</i></br>
+and add <i>- ptvo_pwm.js</i></br>
 to <i>external_converters:</i></br>
 In configuration of zigbee2mqtt</br>
 </p>
