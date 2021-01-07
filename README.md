@@ -26,3 +26,5 @@ mqtt:</br>
 .......................</br>
  </i>
 </p>
+
+Also  <b>Model id</b> in Firmware configurator must be indeticali with <b>zigbeeModel: ['ptvo_PWM'],</b> in ptvo_pwm.js
