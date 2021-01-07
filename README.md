@@ -4,7 +4,7 @@ This is converter for PWM controllers based on firmares created by <a href ="htt
  (https://www.zigbee2mqtt.io/how_tos/how-to-switch-to-dev-branch.html)
 <p>
 <b>Install</b></br>
-place ptvo_pwm.js to dtat folder of zigbee2mqtt</br>
+place ptvo_pwm.js to data folder of zigbee2mqtt</br>
 Typicaly /share/zigbee2mqtt</br>
 </p>
 <p>
