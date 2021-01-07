@@ -4,7 +4,7 @@ This is converter for PWM controllers based on firmares created by <a href ="htt
 <p>
 <b>Install</b></br>
 place ptvo_pwm.js to dtat folder of zigbee2mqtt</br>
-Typicaly .share/zigbee2mqtt</br>
+Typicaly /share/zigbee2mqtt</br>
 </p>
 <p>
 and add <i>- ptvo_pwm.js</i></br>
